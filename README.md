@@ -4,3 +4,4 @@ Since this has come up, and I can't remember how to even install the megacli uti
 
 
 http://wordpress.hawkless.id.au/index.php/2016/10/12/megacli-on-centos-7/
+https://calomel.org/megacli_lsi_commands.html
