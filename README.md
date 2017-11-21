@@ -7,3 +7,4 @@ Any expected `yum install megacli` success seems thwarted by some licensing requ
 
 * http://wordpress.hawkless.id.au/index.php/2016/10/12/megacli-on-centos-7/
 * https://calomel.org/megacli_lsi_commands.html
+* https://tipstricks.itmatrix.eu/checking-the-health-of-lsi-logic-symbios-logic-megaraid-sas-2108-raid-controller/
