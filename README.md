@@ -8,3 +8,4 @@ Any expected `yum install megacli` success seems thwarted by some licensing requ
 * http://wordpress.hawkless.id.au/index.php/2016/10/12/megacli-on-centos-7/
 * https://calomel.org/megacli_lsi_commands.html
 * https://tipstricks.itmatrix.eu/checking-the-health-of-lsi-logic-symbios-logic-megaraid-sas-2108-raid-controller/
+* Awesome way to combine megacli with smartctl to get super-fine-grained detail on harddisks: http://docs.ovh.ca/en/faqs-hdd-serial.html#how-do-i-find-the-serial-number-of-my-hard-disk
